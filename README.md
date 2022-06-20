@@ -1,8 +1,5 @@
 # SPSGP-33135-Salesforce-Developer-Catalyst-Self-Learning-Super-Badges
 Salesforce Developer Catalyst Self-Learning &amp; Super Badges
-https-github.com-smartinternz02-SPSGP-33135-Salesforce-Developer-Catalyst-Self-Learning-Super-Badges
-SPSGP-33135-Salesforce-Developer-Catalyst-Self-Learning-Super-Badges
-Salesforce Developer Catalyst Self-Learning &amp -->
 https://trailhead.salesforce.com/en/users/trailblazerconnect/trailmixes/salesforce-developer-catalyst
 
 Apex Triggers Module -->
